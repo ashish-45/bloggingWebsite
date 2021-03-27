@@ -1,0 +1,21 @@
+.nav-link:hover{
+    background-color: gray;
+}
+.fas{
+    color: white;
+    font-size: 26px;
+    outline: none;
+}
+.imagesicon:hover{
+    background-color: gray;
+}
+
+.footerSection:hover{
+    color: aqua;
+    cursor: pointer;
+}
+
+.likesdislikes{
+    background-color: white;
+}
+
